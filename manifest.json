@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  
+  "name": "Hoax Remover",
+  "description": "Hoax remover chrome extension, especially for facebook news feeds in Indonesia",
+  "version": "1.0",
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*"
+      ],
+
+      "js": [
+        "jquery.js", "content.js"
+      ],
+
+      "run_at": "document_end"
+    
+    }
+  ]
+}
