@@ -11,3 +11,10 @@ Bukan, saya cuma sumpek ngelihat berita-beritanya. Lebih tertarik baca berita te
 
 # Kontribusi
 Issue, fork dan pull request dipersilakan.
+
+# Test
+Tested on Chrome 53 (Ubuntu 14.04 and 16.04) and it works like a charm!
+
+# How to Install
+1. [Download the crx file](https://github.com/miftahafina/ahok-remover/blob/master/dist/ahok-remover.crx)
+2. Bla.. bla.. bla..
