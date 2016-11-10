@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   
-  "name": "Hoax Remover",
-  "description": "Hoax remover chrome extension, especially for facebook news feeds in Indonesia",
+  "name": "Ahok Remover",
+  "description": "Chrome extension to remove all posts contain 'ahok', especially for facebook news feed in Indonesia",
   "version": "1.0",
 
   "content_scripts": [
