@@ -1,9 +1,13 @@
-# Hoax Remover
-Hoax remover adalah extension untuk chrome yang digunakan untuk menyembunyikan postingan-postingan hoax yang beredar di facebook news feed, dan seringkali memancing kita untuk menyukai, mengkomentari atau bahkan menyebarkannya.
+The clone project of [miftahafina/hoax-remover](https://github.com/miftahafina/hoax-remover)
 
-Parahnya lagi banyak dari mereka yang membawa nama agama untuk memancing kita, bahkan beberapa di antaranya menggunakan akun dengan nama artis-artis 'religius'.
+# Ahok Remover
+Tiap hari makin sumpek rasanya melihat postingan-postingan tentang Pak Ahok yang kini semakin sering ber-seliweran di news feed facebook, baik berupa postingan positif maupun negatif. Extension ini dimaksudkan untuk menyembunyikan postingan-postingan tersebut.
 
-Entah karena banyak dari kita yang ingin bertambah rezekinya atau bisa masuk surga dengan mudah rasanya kian hari postingan-postingan semacam itu semakin banyak beredar dan masuk ke dalam kategori menjengkelkan tingkat lanjut. Oleh karenanya, saya berniat untuk membuat extension Hoax Remover ini.
+# Mengapa saya membuatnya?
+Tujuan utama kita mengakses facebook adalah untuk bersosialisasi dengan teman, bukan untuk saling debat atau saling memprovokasi. Itu.
+
+# Apakah saya benci dengan beliau?
+Bukan, saya cuma sumpek ngelihat berita-beritanya. Lebih tertarik baca berita tentang star wars yang bentar lagi mau dirilis film barunya.
 
 # Kontribusi
 Issue, fork dan pull request dipersilakan.

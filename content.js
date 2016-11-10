@@ -1,4 +1,4 @@
-var word = 'trump';
+var word = 'ahok';
 
 // Make it case insensitive
 $.expr[":"].contains = $.expr.createPseudo(function(arg) {
@@ -9,8 +9,7 @@ $.expr[":"].contains = $.expr.createPseudo(function(arg) {
 
 // Search
 var hide = function() {
-  $(
-    "span:contains('"+ word +"'), a:contains('"+ word +"'), cite:contains('"+ word +"'), p:contains('"+ word +"')")
+  $("span:contains('"+ word +"'), a:contains('"+ word +"'), cite:contains('"+ word +"'), p:contains('"+ word +"')")
     .css("display", "none");
 };
 
